@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<magazzino>
+	<prodotto>
+		<categoria>Telefonia</categoria>
+		<codice>1234567890</codice>
+		<marca>BalckBarry</marca>
+		<modello>Q10</modello>
+		<descrizione>Smartphone con tastiera QUERTY e touchscreen</descrizione>
+		<prezzo>550.00</prezzo>
+		<quantita>9</quantita>
+	</prodotto>
+	<prodotto>
+		<categoria>Informatica</categoria>
+		<codice>0123456789</codice>
+		<marca>Dell</marca>
+		<modello>Precision M4700</modello>
+		<descrizione>Il PC notebook con schermo a 15" più potente al mondo</descrizione>
+		<prezzo>2350.00</prezzo>
+		<quantita>3</quantita>
+	</prodotto>
+	<prodotto>
+		<categoria>Video</categoria>
+		<codice>0987654321</codice>
+		<marca>AOC</marca>
+		<modello>Q2963P</modello>
+		<descrizione>Schermo 21:9 superwide 2560x1080 pixel</descrizione>
+		<prezzo>299.00</prezzo>
+		<quantita>0</quantita>
+	</prodotto>
+</magazzino>
